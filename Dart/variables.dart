@@ -32,7 +32,7 @@ void variablesDemo() {
   description = "This will be set later";
   // Output: This will be set later
 
-  print("THIS IS VARIABLES & CONSTANTS IN DART\n\n");
+  print("\n\nTHIS IS VARIABLES & CONSTANTS IN DART\n\n");
   print("Var Name = " + name);
   print("Dynamic Something = " + something.toString());
   print("String City = " + city);
